@@ -81,7 +81,7 @@ article:last-child{
 }
 
 .aside a{
-    color: rgb(0, 39, 10);
+    color: rgb(0, 32, 8);
 }
 
 li{
@@ -89,7 +89,7 @@ li{
 }
 
 a:hover {
-    color: rgb(81, 201, 81);
+    color: rgb(10, 134, 10);
 }
 
 a:active {

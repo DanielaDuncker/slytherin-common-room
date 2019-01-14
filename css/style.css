@@ -22,8 +22,10 @@ body{
 header{
     padding: 70px 50px 40px 50px;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 25px;
     font-style: italic;
+    color: #1d5c00;
+    text-decoration: underline;
 }
 
 header > #logo{

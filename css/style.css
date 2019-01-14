@@ -38,7 +38,7 @@ main{
 }
 
 section{
-    width: 70%;
+    width: 100%;
     float: left;
 }
 
@@ -51,25 +51,26 @@ article:last-child{
     border-bottom: 0px;
 }
 
-aside{
+.aside{
     width: 30%;
     float: right;
     background-color: #fdd761;
     padding: 10px;
+    margin: 30px 30px 0px 0px;
 }
-/* 
-aside{
-    position: sticky;
-    top: 0px;
-} */
 
-aside h3{
+.aside{
+    position: sticky;
+    top: 30px;
+}
+
+.aside h3{
     background-color: #ff5353;
     color: #ffffff;
     padding: 10px;
 }
 
-aside a{
+.aside a{
     color: #000000;
 }
 

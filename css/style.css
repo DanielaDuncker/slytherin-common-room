@@ -57,6 +57,11 @@ aside{
     background-color: #fdd761;
     padding: 10px;
 }
+/* 
+aside{
+    position: sticky;
+    top: 0px;
+} */
 
 aside h3{
     background-color: #ff5353;

@@ -28,7 +28,7 @@ header{
     text-decoration: underline;
 }
 
-header > #logo{
+header > .logo{
     font-size: 2em;
 }
 
